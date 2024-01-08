@@ -17,8 +17,9 @@ In each activity, you have:
 - Jupyter Notebook files, which contain either the challenge or the answers to the challenge
 - .pdf files, which contain additional explanations of the answers
 
+## 
 
-## advice for learning
+## Advice for learning
 ### 1. Stay motivated
 Remember the wise words of Jake the Dog:
 ![image](https://github.com/akaszowska/Painless-Introduction-to-Python-course/assets/48135520/747c979d-9346-49e6-ac24-309b68ecc139)

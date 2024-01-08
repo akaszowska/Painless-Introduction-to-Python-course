@@ -4,7 +4,7 @@ Welcome to the _Painless Introduction to Python_, a basic course for those who h
 
 The course focuses on [Python](https://www.python.org/) 3.5+, and relies on [Jupyter](https://jupyter.org/) Notebook (or Google Collaboratory). Python is one of the most popular programming languages. A programming language is any set of rules and instructions forcomputers to complete tasks and manipulate information. Different programming languages have different applications and fit different needs. Weare focusing on Python, because it is versatile, very widely used, and has a large library of functionalities as well as a huge online supportcommunity, which makes it a great first programming language to learn. Programming languages are somewhat separate from IDEs (Integrated Development Environments), which are software applications that are used for writing, editing, and debugging code. 
 
-If you've never worked with Jupyter Notebook before, there are many excellent guides online, for example [here](https://realpython.com/jupyter-notebook-introduction/), or you can go straight to [user documentation here](https://jupyter-notebook.readthedocs.io/en/latest/notebook.html/). 
+If you've never worked with Jupyter Notebook before, there are many excellent guides online, for example [here at realpython.com](https://realpython.com/jupyter-notebook-introduction/), or you can go straight to [user documentation here](https://jupyter-notebook.readthedocs.io/en/latest/notebook.html/). 
 
 This course is **fully self-paced**: there are no audio recordings or videos, no submissions, no deadlines of any kind. You can easily follow along with written explanations and code examples at your own speed. This course is also designed for **beginners** and assumes no previous knowledge of programming or any relevant concepts. 
 
@@ -37,7 +37,7 @@ I am a big fan of setting up a proper workstation: external monitor (or two), ke
 ### 4. Use cheat sheets
 You do not need to memorize every single function or parameter. Use reference sheets instead! 
 [https://www.pythoncheatsheet.org/](https://www.pythoncheatsheet.org/)
-or [https://www.datacamp.com/cheat-sheet/getting-started-with-python-cheat-sheet](https://www.datacamp.com/cheat-sheet/getting-started-with-python-cheat-sheet)
+or [https://www.datacamp.com/cheat-sheet/getting-started-with-python-cheat-sheet/](https://www.datacamp.com/cheat-sheet/getting-started-with-python-cheat-sheet)
 or any other reference sheet you can find or make yourself. Print it! Laminate it! Use it!
 
 ### 5. Get a rubber duck

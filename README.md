@@ -9,14 +9,8 @@ If you've never worked with Jupyter Notebook before, there are many excellent gu
 This course is **fully self-paced**: there are no audio recordings or videos, no submissions, no deadlines of any kind. You can easily follow along with written explanations and code examples at your own speed. This course is also designed for **beginners** and assumes no previous knowledge of programming or any relevant concepts. 
 
 ## Course structure
-The course is structured as _lessons_ intertwined with _exercises_. Each folder in this repository contains either one lesson or exercises/challenges to support your learning. For complete beginners, I recommend doing the lessons in the order provided, since they build on each other. For those with some previous experience, you can skip around depending on the topics you're interested in.
-
-In each lesson, you have:
-- [Jupyter](https://jupyter.org/) Notebook files, which contain code examples with explanations. 
-
-In each exercise, you have:
-- [Jupyter](https://jupyter.org/) Notebook files which contain the exercise prompts, and additional [Jupyter](https://jupyter.org/) Notebook files with solutions and answers.
-In some lessons&exercises you will also find .pdf files, which contain additional notes, diagrams, and explanations.
+The course is structured as _lessons_ intertwined with _exercises or challenges_ to support your learning. For complete beginners, I recommend following the files in order provided, since they build on each other. For those with some previous experience, you can skip around depending on the topics you're interested in.
+Each lesson consists of a [Jupyter](https://jupyter.org/) Notebook file with code examples and explanations. For some lessons, there are additional .pdf files with extra notes, diagrams, and explanations. Each exercise consists of several files: [Jupyter](https://jupyter.org/) Notebook files which contain the exercise prompts, and additional [Jupyter](https://jupyter.org/) Notebook files with solutions and answers (and sometimes .pdf files with additional explanations).
 
 ## Advice for learning
 ### 1. Stay motivated

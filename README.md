@@ -10,6 +10,7 @@ This course is **fully self-paced**: there are no audio recordings or videos, no
 
 ## Course structure
 The course is structured as _lessons_ intertwined with _exercises or challenges_ to support your learning. For complete beginners, I recommend following the files in order provided, since they build on each other. For those with some previous experience, you can skip around depending on the topics you're interested in.
+
 Each lesson consists of a [Jupyter](https://jupyter.org/) Notebook file with code examples and explanations. For some lessons, there are additional .pdf files with extra notes, diagrams, and explanations. Each exercise consists of several files: [Jupyter](https://jupyter.org/) Notebook files which contain the exercise prompts, and additional [Jupyter](https://jupyter.org/) Notebook files with solutions and answers (and sometimes .pdf files with additional explanations).
 
 ## Advice for learning

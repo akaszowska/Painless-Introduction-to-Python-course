@@ -1,1 +1,3 @@
-# Painless-Introduction-to-Python-course
+# Painless Introduction to Python: a course
+
+Hi there! 

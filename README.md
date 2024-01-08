@@ -13,11 +13,10 @@ The course is structured as _lessons_ intertwined with _exercises_. Each folder 
 
 In each lesson, you have:
 - [Jupyter](https://jupyter.org/) Notebook files, which contain code examples with explanations. 
-- .pdf files, which contain additional notes and diagrams.
 
 In each exercise, you have:
 - [Jupyter](https://jupyter.org/) Notebook files which contain the exercise prompts, and additional [Jupyter](https://jupyter.org/) Notebook files with solutions and answers.
-- .pdf files, which contain additional explanations of the solutions.
+In some lessons&exercises you will also find .pdf files, which contain additional notes, diagrams, and explanations.
 
 ## Advice for learning
 ### 1. Stay motivated

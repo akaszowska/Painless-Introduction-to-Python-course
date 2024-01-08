@@ -23,6 +23,7 @@ In each exercise, you have:
 ### 1. Stay motivated
 Remember the wise words of Jake the Dog:
 ![image](https://github.com/akaszowska/Painless-Introduction-to-Python-course/assets/48135520/747c979d-9346-49e6-ac24-309b68ecc139)
+
 You are trying to learn a new language, so obviously the beginnings will be bumpy. Everyone starts without knowing anything, so do not get discouraged because the beginnings are difficult. 
 
 ### 2. Practice a little bit every day, it is much better than doing a lot once a month

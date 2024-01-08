@@ -10,7 +10,7 @@ The course is structured as lessons. Each folder contains one lesson or activiti
 If you have no previous experience with Python, I recommend doing lessons and activities in the order provided. If you have some previous experience, you can skip around depending on the topic that you are interested in exploring. Keep in mind that the course was designed for complete beginners, and the lessons build on each other. 
 
 In each lesson, you have:
-- Jupyter Notebook files, which contain code examples with explanations
+- [Jupyter](https://jupyter.org/) Notebook files, which contain code examples with explanations
 - .pdf files, which contain additional notes and diagrams
 
 In each activity, you have:

@@ -2,7 +2,7 @@
 Hi all! 
 Welcome to the _Painless Introduction to Python_, a basic course for those who have no to very little experience with programming, but what to see what the fuss is all about. 
 
-The course focuses on [Python](https://www.python.org/) 3.5+, and relies on [Jupyter](https://jupyter.org/) Notebook (or Google Collaboratory). Python is one of the most popular programming languages. A programming language is any set of rules and instructions forcomputers to complete tasks and manipulate information. Different programming languages have different applications and fit different needs. Weare focusing on Python, because it is versatile, very widely used, and has a large library of functionalities as well as a huge online supportcommunity, which makes it a great first programming language to learn. Programming languages are somewhat separate from IDEs (Integrated Development Environments), which are software applications that are used for writing, editing, and debugging code. 
+The course focuses on [Python](https://www.python.org/) 3.5+, and relies on [Jupyter](https://jupyter.org/) Notebook. Python is one of the most popular programming languages. A programming language is any set of rules and instructions forcomputers to complete tasks and manipulate information. Different programming languages have different applications and fit different needs. Weare focusing on Python, because it is versatile, very widely used, and has a large library of functionalities as well as a huge online supportcommunity, which makes it a great first programming language to learn. Programming languages are somewhat separate from IDEs (Integrated Development Environments), which are software applications that are used for writing, editing, and debugging code. 
 
 If you've never worked with Jupyter Notebook before, there are many excellent guides online, for example [here at realpython.com](https://realpython.com/jupyter-notebook-introduction/), or you can go straight to [user documentation here](https://jupyter-notebook.readthedocs.io/en/latest/notebook.html/). 
 
@@ -11,7 +11,7 @@ This course is **fully self-paced**: there are no audio recordings or videos, no
 ## Course structure
 The course is structured as _lessons_ intertwined with _exercises or challenges_ to support your learning. For complete beginners, I recommend following the files in order provided, since they build on each other. For those with some previous experience, you can skip around depending on the topics you're interested in.
 
-Each lesson consists of a [Jupyter](https://jupyter.org/) Notebook file with code examples and explanations. For some lessons, there are additional .pdf files with extra notes, diagrams, and explanations. Each exercise consists of several files: [Jupyter](https://jupyter.org/) Notebook files which contain the exercise prompts, and additional [Jupyter](https://jupyter.org/) Notebook files with solutions and answers (and sometimes .pdf files with additional explanations).
+Each lesson consists of a [Jupyter](https://jupyter.org/) Notebook file with code examples and explanations. For some lessons, there are additional .pdf files with extra notes, diagrams, and explanations. Some lessons come with exercises as well, and those consists of several files: [Jupyter](https://jupyter.org/) Notebook files which contain the exercise prompts, and additional [Jupyter](https://jupyter.org/) Notebook files with solutions and answers (and sometimes .pdf files with additional explanations).
 
 ## Advice for learning
 ### 1. Stay motivated

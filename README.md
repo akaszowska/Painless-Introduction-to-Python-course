@@ -16,7 +16,7 @@ Each lesson consists of a [Jupyter](https://jupyter.org/) Notebook file with cod
 ## Advice for learning
 ### 1. Stay motivated
 Remember the wise words of Jake the Dog:
-![image](https://github.com/akaszowska/Painless-Introduction-to-Python-course/assets/48135520/747c979d-9346-49e6-ac24-309b68ecc139)
+![fd3d970c53aa6ae1dfdda0c2aa7c344c883bf5455bf924fdb6e3d8b1f4983385](https://github.com/akaszowska/Painless-Introduction-to-Python-course/assets/48135520/d0660ba1-c14b-40cf-9244-c0083dae57dd)
 
 You are trying to learn a new language, so obviously the beginnings will be bumpy. Everyone starts without knowing anything, so do not get discouraged because the beginnings are difficult. 
 
